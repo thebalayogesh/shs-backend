@@ -1,0 +1,6 @@
+# variables
+@url = http://localhost:8787
+
+
+### GET Check command
+GET {{url}}
